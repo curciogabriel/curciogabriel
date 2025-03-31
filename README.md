@@ -9,6 +9,7 @@ ____
 
 ### 🛠️ Skills
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=curciogabriel&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,java,spring)](https://skillicons.dev)
 
 ____
